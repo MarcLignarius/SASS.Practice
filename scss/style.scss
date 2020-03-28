@@ -1,6 +1,4 @@
 @import 'config';
-@import 'utilities';
-@import 'buttons';
 
 * {
   box-sizing: border-box;
@@ -62,3 +60,7 @@ a {
     }
   }
 }
+
+@import 'utilities';
+@import 'buttons';
+@import "mobile";
