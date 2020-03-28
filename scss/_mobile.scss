@@ -2,6 +2,16 @@
   .showcase {
     height: 400px;
 
+    nav {
+      li {
+        padding: 10px;
+      }
+    }
+
+    h1 {
+      font-size: 20px;
+    }
+
     &-content {
       text-align: center;
 
