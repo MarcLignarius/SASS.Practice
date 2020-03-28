@@ -41,6 +41,10 @@ a {
     li {
       padding: 15px;
     }
+
+    a:hover {
+      color: $secondary-color;
+    }
   }
 
   a {
