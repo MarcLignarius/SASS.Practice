@@ -20,6 +20,7 @@ img {
 
 a {
   text-decoration: none;
+  @include set-background-color($primary-color);
 }
 
 .showcase {
