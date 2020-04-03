@@ -31,7 +31,7 @@ Web page which uses SASS variables, nesting and mixins to style a simple header.
 * Launch your terminal.
 * `cd desktop` Navigate to the desktop.
 * `git clone "https://github.com/MarcLignarius/SASS.Practice"` Clone this repository to your desktop.
-* `cd sasspractice` Open up the cloned repository.
+* `cd SASS.Practice` Open up the cloned repository.
 * `open index.html` This will open the web page in your browser.
 
 Alternatively, visit https://marclignarius.github.io/SASS.Practice/ to see the live version of the application. 
